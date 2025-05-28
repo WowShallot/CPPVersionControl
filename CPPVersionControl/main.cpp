@@ -1,7 +1,13 @@
 #include <iostream>
 using namespace std;
-int main()
+
+void greet()
 {
 	// Print some text
 	cout << "Welcome!\n\n" << endl;
+}
+
+int main()
+{
+	greet();
 }
