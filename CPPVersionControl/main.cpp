@@ -2,5 +2,5 @@
 using namespace std;
 int main()
 {
-	cout << "Main Function" << endl;
+	cout << "Hello world!" << endl;
 }
