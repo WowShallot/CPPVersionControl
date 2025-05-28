@@ -7,6 +7,8 @@ void greet()
 	cout << "Welcome!\n\n" << endl;
 }
 
+void solution();
+
 int main()
 {
 	greet();
